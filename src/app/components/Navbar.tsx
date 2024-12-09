@@ -57,19 +57,19 @@ const Navbar = () => {
             </li>
             <li>
               <Link
-                href="//SingleProduct"
+                href="/Shop"
                 className="text-teal-500 hover:text-teal-950"
               >
                 Shop
               </Link>
             </li>
             <li>
-              <Link href="/Product" className="text-teal-500 hover:text-teal-950">
+              <Link href="/Productpage" className="text-teal-500 hover:text-teal-950">
                 Product
               </Link>
             </li>
             <li>
-              <Link href="#" className="text-teal-500 hover:text-teal-950">
+              <Link href="/SingleProduct" className="text-teal-500 hover:text-teal-950">
                 Pages
               </Link>
             </li>
